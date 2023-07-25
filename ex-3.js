@@ -3,4 +3,5 @@ let celcius = 30;
 
 // Start coding here;
 
-let fahrenheit;
+let fahrenheit = celcius * 1.8 + 32;
+console.log(fahrenheit);
